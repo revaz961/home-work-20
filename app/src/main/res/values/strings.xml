@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Article Application</string>
+    <string name="description">Description</string>
+    <string name="timeline">Timeline</string>
+    <string name="cancel">cancel</string>
+    <string name="apply">apply</string>
+</resources>
